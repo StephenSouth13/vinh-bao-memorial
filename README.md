@@ -20,7 +20,7 @@ Website tưởng niệm liệt sĩ hiện đại với sơ đồ mộ tương t�
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/StephenSouth13/vinh-bao-memorial.git
 cd memorial-website
 
 # Cài đặt dependencies với pnpm
